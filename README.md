@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-Breve descripción de la práctica 11 en la que implementaré Github y Git.
+Este es mi primer repositorio y lo voy a usar para conocer todas sus funciones.
