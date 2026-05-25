@@ -6,5 +6,3 @@ Actualmente voy al gimnasio y me gusta mucho hacer postres.
  Modificar_Aboutme
 
 ![Unade](/img/de.png)
-
-![Unade](/img/cop.jpg) 
