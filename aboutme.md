@@ -7,4 +7,4 @@ Actualmente voy al gimnasio y me gusta mucho hacer postres.
 
 ![Unade](/img/de.png)
 
-![Unade](/img/cop.png)
+![Unade](/img/cop.jpg)
